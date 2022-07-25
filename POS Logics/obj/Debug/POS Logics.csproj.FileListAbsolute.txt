@@ -1,0 +1,6 @@
+C:\Users\Yoan2\source\repos\PointOfSale\POS Logics\bin\Debug\POS Logics.dll
+C:\Users\Yoan2\source\repos\PointOfSale\POS Logics\bin\Debug\POS Logics.pdb
+C:\Users\Yoan2\source\repos\PointOfSale\POS Logics\obj\Debug\POS Logics.csproj.CoreCompileInputs.cache
+C:\Users\Yoan2\source\repos\PointOfSale\POS Logics\obj\Debug\POS Logics.dll
+C:\Users\Yoan2\source\repos\PointOfSale\POS Logics\obj\Debug\POS Logics.pdb
+C:\Users\Yoan2\source\repos\PointOfSale\POS Logics\obj\Debug\POS Logics.csproj.AssemblyReference.cache
